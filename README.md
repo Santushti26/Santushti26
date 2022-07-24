@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santushti</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=23&duration=4000&color=F714ED&lines=A+Passionate+UI+UX+Developer;A+Passionate+Front+End+Developer)](https://git.io/typing-svg)
+<h3 align="center">A passionate UI UX and frontend developer</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=santushti26&label=Profile%20views&color=0e75b6&style=flat](https://www.pngitem.com/middle/JJwwww_anime-girls-holding-programming-books-hd-png-download/)" alt="santushti26" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=santushti26&label=Profile%20views&color=0e75b6&style=flat" alt="santushti26" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santushti26" alt="santushti26" /></a> </p>
 
