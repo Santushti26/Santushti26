@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=23&duration=4000&color=F3B344&lines=A+Passionate+UI+UX+Designer;A+Front+End+Developer;Cats+lover)](https://git.io/typing-svg)
 
 </h1>
-<h3 align="center" colour="pink">A passionate UI UX and frontend developer</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santushti26&label=Profile%20views&color=0e75b6&style=flat" alt="santushti26" /> </p>
 
