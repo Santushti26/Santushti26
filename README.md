@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santushti26&label=Profile%20views&color=0e75b6&style=flat" alt="santushti26" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santushti26" alt="santushti26" /></a> </p>
+<p align="left"> <a href="https://twitter.com/https://twitter.com/santushti_26" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/santushti_26?logo=twitter&style=for-the-badge" alt="https://twitter.com/santushti_26" /></a> </p>
 
 - 📫 How to reach me **santushtiranjan@gmail.com**
 
@@ -24,4 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santushti26&show_icons=true&locale=en" alt="santushti26" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santushti26&" alt="santushti26" /></p>
+
 
