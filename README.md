@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santushti</h1>
 <h3 align="center">A passionate UI UX and frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santushti26&label=Profile%20views&color=0e75b6&style=flat" alt="santushti26" /> </p>
+<p align="left"> <img src="https://www.pngwing.com/en/free-png-zqwxy" alt="santushti26" /> </p>
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/santushti_26" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/santushti_26?logo=twitter&style=for-the-badge" alt="https://twitter.com/santushti_26" /></a> </p>
 
