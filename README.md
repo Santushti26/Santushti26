@@ -2,7 +2,7 @@
   
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=23&duration=4000&color=F714ED&lines=A+Passionate+FrontEnd+Developer;A+Passionate+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=23&duration=4000&color=00FF00&lines=A+Passionate+FrontEnd+Developer;A+Passionate+UI+/+UXDesigner)](https://git.io/typing-svg)
 </h1>
   
 <h2 align="center">Github Statistics </h2>
